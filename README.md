@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Enoque 🤙
 
-Sou Enoque Teixeira, sou Desenvolvedor na Quality Internet, sou apaixonado por tecnologia e amo aprender coisas novas.<br/>
+Sou Enoque Teixeira, sou desenvolvedor de sistemas na Quality Internet, sou apaixonado por tecnologia e amo aprender coisas novas.<br/>
 
 📌 🇧🇷 Nascido em Vitória da Conquista - BA, Brasil.<br/>
 
