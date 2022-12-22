@@ -11,8 +11,6 @@ Sou Enoque Teixeira, sou Desenvolvedor na Quality Internet, sou apaixonado por t
 
 ![Znoque GitHub stats](https://github-readme-stats.vercel.app/api?username=Znoque&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znoque&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas que utilizo.
@@ -37,5 +35,3 @@ Estas são algumas das tecnologias e ferramentas que utilizo.
 ![InteliijIDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
-
-![Snake animation](https://github.com/PrinceHard/PrinceHard/blob/output/github-contribution-grid-snake.svg)
