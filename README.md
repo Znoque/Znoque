@@ -37,3 +37,5 @@ Estas são algumas das tecnologias e ferramentas que utilizo.
 ![InteliijIDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
+
+![Snake animation](https://github.com/PrinceHard/PrinceHard/blob/output/github-contribution-grid-snake.svg)
