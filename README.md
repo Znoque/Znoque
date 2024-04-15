@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Enoque 🤙
 
-Sou Enoque Teixeira, sou desenvolvedor de sistemas na Quality Internet, sou apaixonado por tecnologia e amo aprender coisas novas.<br/>
+Sou Enoque Teixeira, sou desenvolvedor de sistemas na Quality Internet.<br/>
 
 📌 🇧🇷 Nascido em Vitória da Conquista - BA, Brasil.<br/>
 
@@ -8,8 +8,6 @@ Sou Enoque Teixeira, sou desenvolvedor de sistemas na Quality Internet, sou apai
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enoque-teixeira-barbosa-095265204/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enoque_teixeira/)
-
-![Znoque GitHub stats](https://github-readme-stats.vercel.app/api?username=Znoque&show_icons=true&theme=merko)
 
 ## ⚡ Tecnologias
 
